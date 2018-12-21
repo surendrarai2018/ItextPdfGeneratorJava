@@ -1,0 +1,5 @@
+@charset "ISO-8859-1";
+
+tr { text-align: center; }
+th { background-color: lightgreen; padding: 3px; }
+td {background-color: lightblue;  padding: 3px; }
